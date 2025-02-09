@@ -10,3 +10,20 @@ body{
     margin-bottom: 10px;
     color: white;
 }
+
+#navs {
+    background-color: aquamarine;
+}
+
+#navS ul li {
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#navS li:hover {
+    background-color: black;
+    color: white;
+}
